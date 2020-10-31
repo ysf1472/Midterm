@@ -43,6 +43,7 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.13"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ysf1472/Midterm.git"
